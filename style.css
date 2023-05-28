@@ -60,8 +60,7 @@ body {
     padding: 0 15px;
 }
 
-/* SECTION #1
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 .top-banner {
     color: var(--text_light);
 }
@@ -113,8 +112,7 @@ body {
     min-height: 40px;
 }
 
-/* SECTION #2
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 .ajax-section {
     margin: 70px 0 20px;
 }
